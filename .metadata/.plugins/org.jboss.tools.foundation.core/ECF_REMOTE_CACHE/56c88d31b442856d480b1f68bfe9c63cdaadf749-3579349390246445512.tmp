@@ -1,0 +1,342 @@
+#JBoss, Home of Professional Open Source
+# Copyright 2011, Red Hat, Inc., and individual contributors
+# by the @authors tag. See the copyright.txt in the distribution for a
+# full listing of individual contributors.
+
+# This is free software; you can redistribute it and/or modify it
+# under the terms of the GNU Lesser General Public License as
+# published by the Free Software Foundation; either version 2.1 of
+# the License, or (at your option) any later version.
+
+# This software is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+# Lesser General Public License for more details.
+ 
+# You should have received a copy of the GNU Lesser General Public
+# License along with this software; if not, write to the Free
+# Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA
+# 02110-1301 USA, or see the FSF site: http://www.fsf.org.
+
+licenses:
+ - &lgpl http://www.gnu.org/copyleft/lesser.txt
+ - &lgpl21 http://www.gnu.org/licenses/lgpl-2.1.txt
+
+   
+##########################################################################
+#                                                                        #
+#   L I S T    O F    A L L     A V A I L A B L E    R U N T I M E S     #
+#                                                                        #
+##########################################################################
+
+availableRuntimes:
+
+   ###############
+   #  Seam 2.0.2 #
+   ###############
+ - &seam202runtime
+   id: seam202runtime
+   name: JBoss Seam 2.0.2.SP1
+   version: 2.0.2
+   license: *lgpl21
+   url: http://www.seamframework.org/Seam2/Downloads
+   downloadUrl: http://downloads.sourceforge.net/project/jboss/JBoss%20Seam/2.0.2.SP1/jboss-seam-2.0.2.SP1.zip?r=&ts=1367507020
+   labels: {
+        runtime-category: PROJECT,
+        runtime-type: SEAM,
+        runtime-size: 92250255
+   }
+
+   ###############
+   #  Seam 2.1.2 #
+   ###############
+ - &seam212runtime
+   id: seam212runtime
+   name: JBoss Seam 2.1.2.SP1
+   version: 2.1.2
+   license: *lgpl21
+   url: http://www.seamframework.org/Seam2/Downloads
+   downloadUrl: http://sourceforge.net/projects/jboss/files/JBoss%20Seam/2.1.2/jboss-seam-2.1.2.zip?use_mirror=autoselect
+   labels: {
+        runtime-category: PROJECT,
+        runtime-type: SEAM,
+        runtime-size: 142604794
+   }
+
+   ###############
+   #  Seam 2.2.2 #
+   ###############
+ - &seam222runtime
+   id: seam222runtime
+   name: JBoss Seam 2.2.2
+   version: 2.2.2
+   license: *lgpl21
+   url: http://www.seamframework.org/Seam2/Downloads
+   downloadUrl: http://sourceforge.net/projects/jboss/files/JBoss%20Seam/2.2.2.Final/jboss-seam-2.2.2.Final.zip?use_mirror=autoselect
+   labels: {
+        runtime-category: PROJECT,
+        runtime-type: SEAM,
+        runtime-size: 113161101
+   }
+  
+   ###############
+   #  Seam 2.3.1 #
+   ###############
+ - &seam231runtime
+   id: seam231runtime
+   name: JBoss Seam 2.3.1
+   version: 2.3.1
+   license: *lgpl21
+   url: http://www.seamframework.org/Seam2/Downloads
+   downloadUrl: http://sourceforge.net/projects/jboss/files/JBoss%20Seam/2.3.1.Final/jboss-seam-2.3.1.Final-dist.zip?use_mirror=autoselect
+   labels: {
+        runtime-category: PROJECT,
+        runtime-type: SEAM,
+        runtime-size: 162335848
+   }
+
+
+   ###############
+   #   JBoss 3.2 #
+   ###############
+ - &jboss-as328SP1runtime
+   id: jboss-as328SP1runtime
+   name: JBoss 3.2.8 SP 1
+   version: 3.2.8.SP1
+   license: *lgpl21
+   downloadUrl: http://repository.jboss.org/sourceforge/jboss-3.2.8.SP1.zip
+   labels: {
+        runtime-category: SERVER,
+        runtime-type: AS,
+        runtime-size: 55769924,
+        runtime-md5: 97147374ee5b048e4462c7ebaf3cccb5,
+        wtp-runtime-type: org.jboss.ide.eclipse.as.runtime.32
+   }
+
+
+   ###############
+   # JBoss 4.0.5 #
+   ###############
+ - &jboss-as405runtime
+   id: jboss-as405runtime
+   name: JBoss 4.0.5
+   version: 4.0.5
+   license: *lgpl21
+   url: http://www.jboss.org/jbossas
+   downloadUrl: http://repository.jboss.org/sourceforge/jboss-4.0.5.GA.zip
+   labels: {
+        runtime-category: SERVER,
+        runtime-type: AS,
+        runtime-size: 80866589,
+        runtime-md5: a39e85981958fea2411e9346e218aa39,
+        wtp-runtime-type: org.jboss.ide.eclipse.as.runtime.40
+   }
+   
+   ###############
+   # JBoss 4.2.3 #
+   ###############
+ - &jboss-as423runtime
+   id: jboss-as423runtime
+   name: JBoss 4.2.3
+   version: 4.2.3
+   license: *lgpl21
+   url: http://www.jboss.org/jbossas
+   downloadUrl: http://repository.jboss.org/sourceforge/jboss-4.2.3.GA.zip
+   labels: {
+        runtime-category: SERVER,
+        runtime-type: AS,
+        runtime-size: 99479031,
+        runtime-md5: e548d9e369589f8b9be0abc642c19842,
+        wtp-runtime-type: org.jboss.ide.eclipse.as.runtime.42
+   }
+
+   ###############
+   # JBoss 5.0.1 #
+   ###############
+ - &jboss-as501runtime
+   id: jboss-as501runtime
+   name: JBoss 5.0.1
+   version: 5.0.1
+   license: *lgpl21
+   url: http://www.jboss.org/jbossas
+   downloadUrl: http://repository.jboss.org/sourceforge/jboss-5.0.1.GA.zip
+   labels: {
+        runtime-category: SERVER,
+        runtime-type: AS,
+        runtime-size: 109099657,
+        runtime-md5: dd308175c43796db824692cb0cdea82d,
+        wtp-runtime-type: org.jboss.ide.eclipse.as.runtime.50
+   }
+
+
+   ###############
+   # JBoss 5.1.0 #
+   ###############
+ - &jboss-as510runtime
+   id: jboss-as510runtime
+   name: JBoss 5.1.0
+   version: 5.1.0
+   license: *lgpl21
+   url: http://www.jboss.org/jbossas
+   downloadUrl: http://repository.jboss.org/sourceforge/jboss-5.1.0.GA.zip
+   labels: {
+        runtime-category: SERVER,
+        runtime-type: AS,
+        runtime-size: 133466607,
+        runtime-md5: 78322c75ca0c13002a04418b4a8bc920,
+        wtp-runtime-type: org.jboss.ide.eclipse.as.runtime.51
+   }
+
+
+   ###############
+   # JBoss 6.0.0 #
+   ###############
+ - &jboss-as600runtime
+   id: jboss-as600runtime
+   name: JBoss 6.0.0
+   version: 6.0.0
+   license: *lgpl21
+   url: http://www.jboss.org/jbossas
+   downloadUrl:  https://repository.jboss.org/org/jboss/jbossas/jboss-as-distribution/6.0.0.Final/jboss-as-distribution-6.0.0.Final.zip
+   labels: {
+        runtime-category: SERVER,
+        runtime-type: AS,
+        runtime-size: 181267148,
+        runtime-md5: 81ed7c2c274881963467c11f204eedfc,
+        wtp-runtime-type: org.jboss.ide.eclipse.as.runtime.60
+   }
+
+
+   ###############
+   # JBoss 6.1.0 #
+   ###############
+ - &jboss-as610runtime
+   id: jboss-as610runtime
+   name: JBoss 6.1.0
+   version: 6.1.0
+   license: *lgpl21
+   url: http://www.jboss.org/jbossas
+   downloadUrl: http://download.jboss.org/jbossas/6.1/jboss-as-distribution-6.1.0.Final.zip?use_mirror=autoselect
+   labels: {
+        runtime-category: SERVER,
+        runtime-type: AS,
+        runtime-size: 182762510,
+        runtime-md5: 2264e4d5ba448fa07716008d1452f1e7,
+        wtp-runtime-type: org.jboss.ide.eclipse.as.runtime.60
+   }
+
+##########################################################
+#                                                        #
+#   L I S T    O F    A L L     R E L E A S E S          #
+#                                                        #
+##########################################################
+
+
+minorReleases: 
+
+   ###############
+   #   A S 3.x   #
+   ###############
+
+ - &jbas328
+   name: JBoss AS
+   version: 3.2.8
+   recommendedRuntime: *jboss-as328SP1runtime
+
+
+   ###############
+   #   A S 4.x   #
+   ###############
+
+ - &jbas423
+   name: JBoss AS
+   version: 4.2.3
+   recommendedRuntime: *jboss-as423runtime
+
+ - &jbas405
+   name: JBoss AS
+   version: 4.0.5
+   recommendedRuntime: *jboss-as405runtime
+
+   ###############
+   #   A S 5.x   #
+   ###############
+
+ - &jbas51
+   name: JBoss AS
+   version: 5.1
+   recommendedRuntime: *jboss-as510runtime
+
+ - &jbas501
+   name: JBoss AS
+   version: 5.0.1
+   recommendedRuntime: *jboss-as501runtime
+
+   ###############
+   #   A S 6.x   #
+   ###############
+
+ - &jbas61
+   name: JBoss AS
+   version: 6.1
+   recommendedRuntime: *jboss-as610runtime
+
+ - &jbas60
+   name: JBoss AS
+   version: 6.0
+   recommendedRuntime: *jboss-as600runtime
+
+   
+
+############################################
+
+majorReleases:
+
+
+   ###############
+   #   A S 3     #
+   ###############
+
+ - name: JBoss AS
+   version: 3
+   recommendedRuntime: *jboss-as328SP1runtime
+   minorReleases:
+    - *jbas328
+
+
+
+   ###############
+   #   A S 4     #
+   ###############
+
+ - name: JBoss AS
+   version: 4
+   recommendedRuntime: *jboss-as423runtime
+   minorReleases:
+    - *jbas423
+    - *jbas405
+
+
+   ###############
+   #   A S 5     #
+   ###############
+
+ - name: JBoss AS
+   version: 5
+   recommendedRuntime: *jboss-as510runtime
+   minorReleases:
+    - *jbas51
+    - *jbas501
+
+
+   ###############
+   #   A S 6     #
+   ###############
+
+ - name: JBoss AS
+   version: 6
+   recommendedRuntime: *jboss-as610runtime
+   minorReleases:
+    - *jbas60
+    - *jbas61
+

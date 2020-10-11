@@ -1,0 +1,6 @@
+com\extreme\media\ex\service\Perfil.class
+com\extreme\media\ex\util\Perfil.class
+com\extreme\media\ex\util\AuthenticateAttribute.class
+com\extreme\media\sql\connection\Connection.class
+com\extreme\media\ex\service\Authentication.class
+com\extreme\media\sql\connection\Test.class

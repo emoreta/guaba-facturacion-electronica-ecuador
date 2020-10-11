@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.jboss.ide.eclipse.as.core.server.startupConfiguration">
+<booleanAttribute key="DEFAULTS_SET" value="true"/>
+<mapAttribute key="org.eclipse.debug.core.environmentVariables">
+<mapEntry key="PATH" value="native;${env_var:PATH}"/>
+</mapAttribute>
+<listAttribute key="org.eclipse.jdt.launching.CLASSPATH">
+<listEntry value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;runtimeClasspathEntry externalArchive=&quot;C:/wf16/jboss-modules.jar&quot; path=&quot;3&quot; type=&quot;2&quot;/&gt;&#13;&#10;"/>
+<listEntry value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;runtimeClasspathEntry containerPath=&quot;org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_181&quot; path=&quot;2&quot; type=&quot;4&quot;/&gt;&#13;&#10;"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.jboss.ide.eclipse.as.core.server.internal.launch.serverClasspathProvider"/>
+<booleanAttribute key="org.eclipse.jdt.launching.DEFAULT_CLASSPATH" value="false"/>
+<stringAttribute key="org.eclipse.jdt.launching.JRE_CONTAINER" value="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_181"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.jboss.modules.Main"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-mp &quot;C:/wf16/modules&quot; org.jboss.as.standalone -b localhost --server-config=standalone.xml -Djboss.server.base.dir=C:\wf16\standalone "/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="&quot;-Dprogram.name=JBossTools: WildFly 11 (Tech Preview)&quot; -server -Xms64m -Xmx512m -Dorg.jboss.resolver.warning=true -Djava.net.preferIPv4Stack=true -Dsun.rmi.dgc.client.gcInterval=3600000 -Dsun.rmi.dgc.server.gcInterval=3600000 -Djboss.modules.system.pkgs=org.jboss.byteman -Djava.awt.headless=true &quot;-Dorg.jboss.boot.log.file=C:/wf16/standalone/log/boot.log&quot; &quot;-Dlogging.configuration=file:/C:/wf16/standalone/configuration/logging.properties&quot; &quot;-Djboss.home.dir=C:/wf16&quot; -Dorg.jboss.logmanager.nocolor=true -Djboss.bind.address.management=localhost "/>
+<stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="C:/wf16/bin"/>
+<stringAttribute key="server-id" value="WildFly 11 (Tech Preview)1553220877613"/>
+</launchConfiguration>

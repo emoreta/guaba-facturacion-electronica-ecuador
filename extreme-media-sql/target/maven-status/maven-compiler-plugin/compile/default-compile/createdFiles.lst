@@ -1,0 +1,8 @@
+com\extreme\media\entityes\ExternalDataDetalle.class
+com\extreme\media\postgress\Querys.class
+com\extreme\media\entityes\ExternalDataDetalleNc.class
+com\extreme\media\sql\Connection.class
+com\extreme\media\sql\App.class
+com\extreme\media\entityes\ExternalData.class
+com\extreme\media\entityes\ExternalDataNc.class
+com\extreme\media\postgress\InformacionFactura.class

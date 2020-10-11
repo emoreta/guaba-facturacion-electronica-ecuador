@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE log4j:configuration SYSTEM "dtds/log4j.dtd">
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/"
+	debug="false">
+	<appender name="console" class="org.apache.log4j.ConsoleAppender">
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern"
+				value="%n%d{yyyy-MM-dd HH:mm:ss} [%-5p] [%l] %n%m%n" />
+		</layout>
+	</appender>
+
+	<appender name="error_file"
+		class="org.apache.log4j.RollingFileAppender">
+		<param name="File" value="tuApplicationNameErrorFile.log" />
+		<param name="MaxFileSize" value="2000000" />
+		<param name="MaxBackupIndex" value="5" />
+		<param name="Threshold" value="WARN" />
+
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern"
+				value="%n%d{yyyy-MM-dd HH:mm:ss} [%-5p] [%l] %n%m%n" />
+		</layout>
+	</appender>
+
+	<appender name="debug_file"
+		class="org.apache.log4j.RollingFileAppender">
+		<param name="File" value="tuApplicationName.log" />
+		<param name="MaxFileSize" value="5000000" />
+		<param name="MaxBackupIndex" value="5" />
+
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern"
+				value="%n%d{yyyy-MM-dd HH:mm:ss} [%-5p] [%l] %n%m%n" />
+		</layout>
+	</appender>
+
+	<appender name="error_file1"
+		class="org.apache.log4j.RollingFileAppender">
+		<param name="File" value="tuApplicationNameErrorFile1.log" />
+		<param name="MaxFileSize" value="2000000" />
+		<param name="MaxBackupIndex" value="5" />
+		<param name="Threshold" value="WARN" />
+
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern"
+				value="%n%d{yyyy-MM-dd HH:mm:ss} [%-5p] [%l] %n%m%n" />
+		</layout>
+	</appender>
+	
+	<appender name="error_file2"
+		class="org.apache.log4j.RollingFileAppender">
+		<param name="File" value="tuApplicationNameErrorFile2.log" />
+		<param name="MaxFileSize" value="2000000" />
+		<param name="MaxBackupIndex" value="5" />
+		<param name="Threshold" value="WARN" />
+
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern"
+				value="%n%d{yyyy-MM-dd HH:mm:ss} [%-5p] [%l] %n%m%n" />
+		</layout>
+	</appender>
+
+	<root>
+		<level value="warn" />
+		<appender-ref ref="console" />
+		<appender-ref ref="error_file" />
+	</root>
+
+	<category name="com.autentia.tutoriales.log4j">
+		<priority value="debug" />
+		<appender-ref ref="debug_file" />
+	</category>
+	
+
+	<category name="com.autentia.tutoriales.log4j.paquete1">
+		<appender-ref ref="error_file1" />
+	</category>
+
+	<category name="com.autentia.tutoriales.log4j.paquete2">
+		<appender-ref ref="error_file2" />
+	</category>
+</log4j:configuration>

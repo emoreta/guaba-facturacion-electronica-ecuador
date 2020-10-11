@@ -1,0 +1,25 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.extreme.media</groupId>
+  <artifactId>extreme-media-facturacion-security-encript</artifactId>
+  <version>1.0.0</version>
+  <name>extreme-media-facturacion-security-encript</name>
+  <dependencies>
+
+  	<!-- https://mvnrepository.com/artifact/javax.xml.crypto/jsr105-api -->
+<dependency>
+    <groupId>javax.xml.crypto</groupId>
+    <artifactId>jsr105-api</artifactId>
+    <version>1.0.1</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/commons-codec/commons-codec -->
+<dependency>
+    <groupId>commons-codec</groupId>
+    <artifactId>commons-codec</artifactId>
+    <version>1.2</version>
+</dependency>
+
+
+
+  </dependencies>
+</project>

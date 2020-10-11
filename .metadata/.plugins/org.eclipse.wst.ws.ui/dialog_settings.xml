@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="0/org.eclipse.jst.ws.wsImpl.java">
+		<item value="com.guaba.Test"/>
+		<item value="com.mkyong.ws.HelloWorldImpl"/>
+		<item value="com.guaba.studio.service.Facturacion"/>
+		<item value="com.guaba.studio.service.TestI"/>
+		<item value="com.guaba.studio.service.test"/>
+	</list>
+</section>

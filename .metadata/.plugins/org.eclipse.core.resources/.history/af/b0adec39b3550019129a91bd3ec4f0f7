@@ -1,0 +1,33 @@
+package com.guaba.ec.service;
+
+import javax.jws.WebMethod;
+import javax.jws.WebService;
+
+import com.guaba.ec.entity.QueryDocument;
+import com.guaba.ec.entity.RequestDocument;
+import com.guaba.ec.entity.ResponseDocument;
+import com.guaba.ec.inter.Operations;
+
+@WebService
+public class OperationsImpl implements Operations{
+
+	
+	@WebMethod
+	@Override
+	public ResponseDocument requestDocumentsss(RequestDocument rd) {
+		// TODO Auto-generated method stub
+		ResponseDocument resd=new ResponseDocument();
+		resd.setCode("000");
+		resd.setMessage("PROCESSED CORRECTLY");
+		return resd;
+	}
+	/*@WebMethod
+	public int add(int a,int b)
+	{
+		return a+b;
+	}*/
+	
+	
+	
+
+}

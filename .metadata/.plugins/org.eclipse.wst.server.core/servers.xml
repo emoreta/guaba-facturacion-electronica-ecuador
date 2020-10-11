@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-time="1" hostname="localhost" id="WildFly 11 (Tech Preview)1553220877613" name="WildFly 11 (Tech Preview)" org.jboss.ide.eclipse.as.core.server.EXPOSE_MANAGEMENT_SERVICE="true" org.jboss.ide.eclipse.as.core.server.IGNORE_LAUNCH_COMMANDS="false" org.jboss.ide.eclipse.as.core.server.attributes.shutdownPollerKey="org.jboss.ide.eclipse.as.core.runtime.server.WebPoller" org.jboss.ide.eclipse.as.core.server.attributes.startupPollerKey="org.jboss.ide.eclipse.as.core.runtime.server.WebPoller" org.jboss.ide.eclipse.as.core.server.deployDirectoryType="server" org.jboss.ide.eclipse.as.core.server.serverMode="local" runtime-id="WildFly 11.0 Runtime" server-type="org.jboss.ide.eclipse.as.wildfly.110" server-type-id="org.jboss.ide.eclipse.as.wildfly.110" start-timeout="450" stop-timeout="450" timestamp="10">
+    <list key="modules" value0="service-soap-guaba::org.eclipse.jst.jee.server:service-soap-guaba::jst.web::3.1"/>
+  </server>
+</servers>

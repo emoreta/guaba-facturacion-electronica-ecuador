@@ -1,0 +1,884 @@
+2019-03-19 20:39:53,238 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-commons:1.0.0 @ C:\WorspaceFac\extreme-media-commons\pom.xml.
+2019-03-19 20:39:53,547 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-bd:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-bd\pom.xml.
+2019-03-19 20:39:55,641 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-check-document:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-check-document\pom.xml.
+2019-03-19 20:39:55,994 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-document-factura:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-document-factura\pom.xml.
+2019-03-19 20:39:56,171 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-ftp:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-ftp\pom.xml.
+2019-03-19 20:39:56,366 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-mail:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-mail\pom.xml.
+2019-03-19 20:39:56,468 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-main:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-main\pom.xml.
+2019-03-19 20:39:56,606 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-mapping:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-mapping\pom.xml.
+2019-03-19 20:39:56,740 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-mysql:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-mysql\pom.xml.
+2019-03-19 20:39:56,869 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-nc-check-document:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-nc-check-document\pom.xml.
+2019-03-19 20:39:56,994 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-nc-principal:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-nc-principal\pom.xml.
+2019-03-19 20:39:57,136 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-nc-transfer-file:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-nc-transfer-file\pom.xml.
+2019-03-19 20:39:57,290 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-pdf:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-pdf\pom.xml.
+2019-03-19 20:39:57,391 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-principal:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-principal\pom.xml.
+2019-03-19 20:39:57,502 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-provisional:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-provisional\pom.xml.
+2019-03-19 20:39:57,597 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-security-encript:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-security-encrypt\pom.xml.
+2019-03-19 20:39:57,683 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-send-document:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-send-document\pom.xml.
+2019-03-19 20:39:57,760 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-sign:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-sign\pom.xml.
+2019-03-19 20:39:57,862 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-transfer-files:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-transfer-files\pom.xml.
+2019-03-19 20:39:57,956 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-sql:1.0.0 @ C:\WorspaceFac\extreme-media-sql\pom.xml.
+2019-03-19 20:40:11,369 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:11,389 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:11,396 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:11,410 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:12,106 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:12,126 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:12,136 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:12,147 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:12,218 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:12,229 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:12,232 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:12,243 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:12,309 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:12,337 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-commons\src\main\resources
+2019-03-19 20:40:12,339 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:12,351 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-commons\src\test\resources
+2019-03-19 20:40:12,424 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:12,438 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:12,440 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:12,452 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:12,520 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:12,532 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:12,534 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:12,548 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:12,885 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:12,899 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:12,903 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:12,932 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:13,104 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:13,116 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:13,120 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:13,132 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:13,249 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 20:40:13,249 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-facturacion-bd\src\main\resources
+2019-03-19 20:40:13,251 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 20:40:13,252 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-facturacion-bd\src\test\resources
+2019-03-19 20:40:13,392 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 20:40:13,392 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-sql\src\main\resources
+2019-03-19 20:40:13,394 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 20:40:13,394 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-sql\src\test\resources
+2019-03-19 20:40:13,549 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:13,561 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-19 20:40:13,569 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:13,586 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:13,796 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:13,807 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:13,809 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:13,821 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:14,003 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:14,022 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:14,024 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:14,037 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:14,181 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:14,192 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:14,193 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:14,204 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:14,323 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:14,334 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:14,336 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:14,347 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:14,487 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:14,497 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-19 20:40:14,501 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:14,511 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:14,651 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:14,662 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:14,663 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:14,674 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:14,799 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:14,811 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:14,813 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:14,823 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:14,945 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:14,954 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:14,956 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:14,967 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:15,096 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:15,105 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-19 20:40:15,107 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:15,116 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:40:35,658 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-commons
+2019-03-19 20:40:35,659 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:40:43,464 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:43,474 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-commons\src\main\resources
+2019-03-19 20:40:43,484 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:40:43,495 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-commons\src\test\resources
+2019-03-19 20:41:35,677 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:35,689 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:35,696 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:35,711 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:35,872 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:35,879 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:35,887 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:35,895 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:35,978 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:35,988 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:35,998 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:36,006 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:36,012 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:36,019 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-commons\src\main\resources
+2019-03-19 20:41:36,027 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:36,037 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-commons\src\test\resources
+2019-03-19 20:41:37,492 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:37,499 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:37,501 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:37,508 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:37,532 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:37,543 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:37,553 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:37,561 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:38,130 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:38,141 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:38,152 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:38,165 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:41,699 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:41,706 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:41,713 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:41,725 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:41,789 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 20:41:41,790 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-facturacion-bd\src\main\resources
+2019-03-19 20:41:41,798 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 20:41:41,799 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-facturacion-bd\src\test\resources
+2019-03-19 20:41:41,910 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 20:41:41,910 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-sql\src\main\resources
+2019-03-19 20:41:41,921 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 20:41:41,921 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-sql\src\test\resources
+2019-03-19 20:41:42,060 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:42,067 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:42,069 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:42,076 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:42,153 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:42,163 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:42,173 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:42,183 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:42,294 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:42,304 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:42,306 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:42,316 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:42,390 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:42,397 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:42,404 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:42,412 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:42,521 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:42,529 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:42,530 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:42,537 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:42,631 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:42,641 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:42,651 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:42,659 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:42,743 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:42,750 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:42,752 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:42,759 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:42,853 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:42,863 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:42,869 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:42,877 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:42,968 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:42,977 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:42,979 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:42,989 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:43,083 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:43,094 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:43,103 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:41:43,114 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:41:53,197 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-commons
+2019-03-19 20:41:53,197 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:42:11,438 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:42:11,447 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-commons\src\main\resources
+2019-03-19 20:42:11,449 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:42:11,458 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-commons\src\test\resources
+2019-03-19 20:42:29,097 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-facturacion-bd
+2019-03-19 20:42:29,098 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:42:36,415 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 20:42:36,420 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-facturacion-bd\src\main\resources
+2019-03-19 20:42:36,427 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 20:42:36,427 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-facturacion-bd\src\test\resources
+2019-03-19 20:42:48,161 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-sql
+2019-03-19 20:42:48,161 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:42:53,371 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 20:42:53,377 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-sql\src\main\resources
+2019-03-19 20:42:53,383 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 20:42:53,384 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-sql\src\test\resources
+2019-03-19 20:43:23,844 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:23,852 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:23,853 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:23,862 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:23,882 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:23,899 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:23,908 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:23,916 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:23,942 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:23,952 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:23,953 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:23,962 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:23,990 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:23,999 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-commons\src\main\resources
+2019-03-19 20:43:24,000 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:24,011 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-commons\src\test\resources
+2019-03-19 20:43:24,040 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:24,055 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:24,056 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:24,066 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:24,091 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:24,098 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:24,099 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:24,109 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:24,188 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:24,199 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:24,200 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:24,211 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:24,279 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:24,289 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:24,291 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:24,302 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:24,375 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 20:43:24,375 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-facturacion-bd\src\main\resources
+2019-03-19 20:43:24,377 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 20:43:24,377 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-facturacion-bd\src\test\resources
+2019-03-19 20:43:24,460 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 20:43:24,460 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-sql\src\main\resources
+2019-03-19 20:43:24,461 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 20:43:24,461 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-sql\src\test\resources
+2019-03-19 20:43:24,559 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:24,569 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:24,570 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:24,580 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:24,652 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:24,663 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:24,664 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:24,678 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:24,783 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:24,798 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:24,799 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:24,866 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:25,022 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:25,039 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:25,041 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:25,052 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:25,141 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:25,163 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:25,165 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:25,175 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:25,282 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:25,390 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:25,392 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:25,405 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:25,497 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:25,508 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:25,510 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:25,524 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:25,929 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:25,942 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:25,943 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:25,959 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:26,063 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:26,120 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:26,122 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:26,132 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:26,219 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:26,230 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:26,231 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:43:26,244 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:43:41,427 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 20:43:41,427 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-sql\src\main\resources
+2019-03-19 20:43:41,428 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 20:43:41,428 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-sql\src\test\resources
+2019-03-19 20:43:48,489 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-sql
+2019-03-19 20:43:48,489 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:43:54,476 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 20:43:54,476 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-sql\src\main\resources
+2019-03-19 20:43:54,485 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 20:43:54,492 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-sql\src\test\resources
+2019-03-19 20:44:19,239 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-facturacion-check-document
+2019-03-19 20:44:19,239 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:44:35,484 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:44:35,502 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-19 20:44:35,509 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:44:35,516 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:44:44,646 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-facturacion-document-factura
+2019-03-19 20:44:44,646 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:44:51,453 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:44:51,460 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:44:51,466 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:44:51,479 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:45:05,391 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-facturacion-ftp
+2019-03-19 20:45:05,391 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:45:11,157 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:45:11,171 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:45:11,178 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:45:11,186 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:45:18,671 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-facturacion-mail
+2019-03-19 20:45:18,672 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:45:24,388 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:45:24,395 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:45:24,403 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:45:24,416 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:45:34,838 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-facturacion-main
+2019-03-19 20:45:34,838 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:45:39,875 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:45:39,889 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:45:39,896 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:45:39,904 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:45:47,194 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-facturacion-mapping
+2019-03-19 20:45:47,194 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:45:52,292 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:45:52,303 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:45:52,313 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:45:52,333 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:45:58,865 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-facturacion-mysql
+2019-03-19 20:45:58,866 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:46:02,986 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:46:02,999 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:46:03,005 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:46:03,012 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:46:33,255 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:46:33,270 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:46:33,272 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:46:33,287 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:46:43,174 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-facturacion-mysql
+2019-03-19 20:46:43,180 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:46:48,640 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:46:48,647 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:46:48,653 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:46:48,665 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:47:03,197 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-facturacion-nc-check-document
+2019-03-19 20:47:03,197 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:47:21,778 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-facturacion-nc-principal
+2019-03-19 20:47:21,783 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:47:26,340 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:47:26,347 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:47:26,353 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:47:26,365 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:49:09,040 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-facturacion-mysql
+2019-03-19 20:49:09,040 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:49:13,525 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:49:13,551 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:49:13,559 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:49:13,567 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:49:24,572 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-facturacion-nc-principal
+2019-03-19 20:49:24,572 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:49:29,372 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:49:29,387 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:49:29,395 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:49:29,410 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:52:11,940 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:52:11,948 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:52:11,954 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:52:11,967 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:52:36,261 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:52:36,277 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:52:36,291 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:52:36,317 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:52:42,502 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-facturacion-nc-principal
+2019-03-19 20:52:42,503 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:52:55,392 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:52:55,424 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:52:55,433 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:52:55,443 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:53:03,255 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-facturacion-nc-transfer-file
+2019-03-19 20:53:03,255 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:53:11,431 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:53:11,438 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:53:11,447 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:53:11,466 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:53:21,475 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-facturacion-pdf
+2019-03-19 20:53:21,475 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:53:28,536 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:53:28,554 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:53:28,564 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:53:28,574 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:53:37,453 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-facturacion-principal
+2019-03-19 20:53:37,453 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:53:50,201 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:53:50,209 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-19 20:53:50,219 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:53:50,238 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:53:56,372 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-facturacion-provisional
+2019-03-19 20:53:56,372 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:54:00,606 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:54:00,623 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:54:00,631 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:54:00,639 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:54:14,214 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-facturacion-security-encrypt
+2019-03-19 20:54:14,214 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:54:18,895 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:54:18,902 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:54:18,909 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:54:18,922 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:54:25,202 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-facturacion-send-document
+2019-03-19 20:54:25,202 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:54:31,208 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:54:31,225 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:54:31,236 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:54:31,244 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:54:43,170 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-facturacion-sign
+2019-03-19 20:54:43,170 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:54:48,523 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:54:48,533 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:54:48,540 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:54:48,557 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:54:59,974 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-facturacion-transfer-files
+2019-03-19 20:54:59,974 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:55:08,583 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:55:08,604 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-19 20:55:08,612 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:55:08,620 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:55:14,650 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-sql
+2019-03-19 20:55:14,650 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:55:19,390 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 20:55:19,391 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-sql\src\main\resources
+2019-03-19 20:55:19,397 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 20:55:19,403 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-sql\src\test\resources
+2019-03-19 20:55:29,554 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-facturacion-mail
+2019-03-19 20:55:29,554 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 20:55:34,078 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:55:34,107 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:55:34,122 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:55:34,131 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 20:58:41,701 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: extreme-media-ex-service:extreme-media-ex-service:1.0.0 @ C:\WorspaceFac\extreme-media-ex-service\pom.xml.
+2019-03-19 20:58:46,666 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /extreme-media-ex-service/src
+2019-03-19 20:58:46,667 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /extreme-media-ex-service/src/test/java because it overlaps with /extreme-media-ex-service/src
+2019-03-19 20:58:49,556 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 15 sec
+2019-03-19 20:58:51,466 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:58:51,490 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-19 20:58:51,500 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 20:58:51,511 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-19 21:02:04,303 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-ex-service
+2019-03-19 21:02:04,303 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 21:02:25,806 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 21:02:25,822 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-19 21:02:25,822 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 21:02:25,837 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-19 21:18:40,254 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-ex-service
+2019-03-19 21:18:40,254 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-19 21:19:08,733 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 21:19:08,746 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-19 21:19:08,752 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-19 21:19:08,759 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:04:58,933 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-commons:1.0.0 @ C:\WorspaceFac\extreme-media-commons\pom.xml.
+2019-03-20 21:05:04,421 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: extreme-media-ex-service:extreme-media-ex-service:1.0.0 @ C:\WorspaceFac\extreme-media-ex-service\pom.xml.
+2019-03-20 21:05:04,656 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-bd:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-bd\pom.xml.
+2019-03-20 21:05:05,569 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-check-document:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-check-document\pom.xml.
+2019-03-20 21:05:05,828 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-document-factura:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-document-factura\pom.xml.
+2019-03-20 21:05:05,947 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-ftp:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-ftp\pom.xml.
+2019-03-20 21:05:06,104 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-mail:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-mail\pom.xml.
+2019-03-20 21:05:06,206 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-main:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-main\pom.xml.
+2019-03-20 21:05:06,365 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-mapping:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-mapping\pom.xml.
+2019-03-20 21:05:06,483 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-mysql:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-mysql\pom.xml.
+2019-03-20 21:05:06,596 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-nc-check-document:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-nc-check-document\pom.xml.
+2019-03-20 21:05:06,710 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-nc-principal:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-nc-principal\pom.xml.
+2019-03-20 21:05:06,833 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-nc-transfer-file:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-nc-transfer-file\pom.xml.
+2019-03-20 21:05:06,984 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-pdf:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-pdf\pom.xml.
+2019-03-20 21:05:07,106 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-principal:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-principal\pom.xml.
+2019-03-20 21:05:07,202 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-provisional:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-provisional\pom.xml.
+2019-03-20 21:05:07,297 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-security-encript:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-security-encrypt\pom.xml.
+2019-03-20 21:05:07,376 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-send-document:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-send-document\pom.xml.
+2019-03-20 21:05:07,443 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-sign:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-sign\pom.xml.
+2019-03-20 21:05:07,531 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-facturacion-transfer-files:1.0.0 @ C:\WorspaceFac\extreme-media-facturacion-transfer-files\pom.xml.
+2019-03-20 21:05:07,642 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.extreme.media:extreme-media-sql:1.0.0 @ C:\WorspaceFac\extreme-media-sql\pom.xml.
+2019-03-20 21:05:37,382 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:37,440 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:05:37,440 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:37,518 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:05:37,707 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:37,738 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:05:37,738 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:37,759 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:05:38,177 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:38,224 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:38,224 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:38,255 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:41,936 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:41,973 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:41,976 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:42,021 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:42,211 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:42,259 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:42,261 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:42,388 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:42,572 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:42,617 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-commons\src\main\resources
+2019-03-20 21:05:42,618 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:42,722 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-commons\src\test\resources
+2019-03-20 21:05:42,918 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:42,934 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:42,936 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:42,963 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:43,038 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:43,038 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:43,053 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:43,069 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:43,536 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:43,622 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:43,626 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:43,712 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:44,312 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:44,323 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:44,325 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:44,345 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:44,512 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 21:05:44,514 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-facturacion-bd\src\main\resources
+2019-03-20 21:05:44,517 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 21:05:44,528 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-facturacion-bd\src\test\resources
+2019-03-20 21:05:44,783 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 21:05:44,783 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-sql\src\main\resources
+2019-03-20 21:05:44,785 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 21:05:44,823 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-sql\src\test\resources
+2019-03-20 21:05:45,083 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:45,101 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 21:05:45,119 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:45,138 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:45,451 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:45,461 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:45,463 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:45,482 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:45,662 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:45,672 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:45,673 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:45,693 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:45,850 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:45,884 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:45,889 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:45,918 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:46,049 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:46,061 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:46,063 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:46,080 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:46,201 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:46,210 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-20 21:05:46,212 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:46,232 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:46,495 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:46,513 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:46,515 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:46,535 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:46,689 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:46,701 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:46,702 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:46,720 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:46,938 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:46,989 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:46,991 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:47,013 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:05:47,195 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:47,210 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-20 21:05:47,213 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:05:47,232 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 21:08:29,871 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:08:29,984 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:08:29,986 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:08:30,040 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:09:10,509 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:09:10,524 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:09:10,533 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:09:10,546 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:09:21,468 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:09:21,483 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:09:21,484 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:09:21,502 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:09:29,462 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:09:29,476 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:09:29,484 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:09:29,497 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:12:03,610 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:12:03,618 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:12:03,619 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:12:03,646 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:14:00,810 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-ex-service
+2019-03-20 21:14:00,817 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-20 21:14:39,022 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:14:39,070 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:14:39,106 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:14:39,154 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:15:27,623 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-ex-service
+2019-03-20 21:15:27,639 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-20 21:15:47,054 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:15:47,083 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:15:47,095 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:15:47,118 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:21:04,352 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:21:04,362 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:21:04,363 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:21:04,380 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:21:17,031 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:21:17,050 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:21:17,058 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:21:17,078 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:26:14,606 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:26:14,653 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:26:14,656 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:26:14,718 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:27:51,379 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: extreme-media-ex-service:extreme-media-ex-service:1.0.0 @ C:\WorspaceFac\extreme-media-ex-service\pom.xml.
+2019-03-20 21:27:52,609 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:27:52,622 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:27:52,629 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:27:52,636 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:27:52,642 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of extreme-media-ex-service
+2019-03-20 21:27:52,758 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for extreme-media-ex-service
+2019-03-20 21:27:52,806 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:27:54,144 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:27:54,245 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:27:54,247 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:27:54,282 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:27:57,476 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:27:57,496 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:27:57,508 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:27:57,527 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:28:14,117 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:28:14,125 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:28:14,126 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:28:14,142 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:28:31,271 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-ex-service
+2019-03-20 21:28:31,279 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-20 21:28:53,796 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:28:53,815 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:28:53,826 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:28:53,842 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:39:48,774 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:39:48,794 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:39:48,801 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:39:48,813 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:40:01,616 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:40:01,628 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:40:01,637 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:40:01,649 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:40:04,384 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:40:04,401 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:40:04,408 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:40:04,424 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:40:08,585 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:40:08,619 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:40:08,626 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:40:08,641 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:40:28,584 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:40:28,601 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:40:28,609 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:40:28,621 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:40:46,342 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:40:46,362 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:40:46,369 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:40:46,383 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:40:50,710 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:40:50,738 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:40:50,746 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:40:50,765 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:40:54,745 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:40:54,776 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:40:54,784 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:40:54,797 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:41:25,930 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:41:25,962 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:41:25,970 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:41:25,988 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:41:59,560 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:41:59,573 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:41:59,579 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:41:59,593 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:42:08,998 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:42:09,024 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:42:09,032 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:42:09,045 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:42:31,825 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:42:31,840 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:42:31,847 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:42:31,867 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:45:24,948 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:45:25,007 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:45:25,022 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:45:25,052 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:45:42,327 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:45:42,343 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:45:42,349 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:45:42,362 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:45:48,365 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:45:48,379 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:45:48,385 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:45:48,399 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:46:15,482 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:46:15,496 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:46:15,503 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:46:15,516 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:46:40,638 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\extreme-media-ex-service
+2019-03-20 21:46:40,644 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-20 21:47:00,341 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:47:00,357 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\main\resources
+2019-03-20 21:47:00,365 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:47:00,378 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\extreme-media-ex-service\src\test\resources
+2019-03-20 21:54:03,800 [Worker-43] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: WebServices:WebServices:0.0.1-SNAPSHOT @ C:\WorspaceFac\JAX-WS-HelloWorld-RPC-Example\WebServices\pom.xml.
+2019-03-20 21:54:04,825 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:54:04,848 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\JAX-WS-HelloWorld-RPC-Example\WebServices\src\main\resources
+2019-03-20 21:54:04,864 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:54:04,893 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\JAX-WS-HelloWorld-RPC-Example\WebServices\src\test\resources
+2019-03-20 21:54:05,112 [Worker-43] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebServices/src
+2019-03-20 21:54:05,113 [Worker-43] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /WebServices/src/test/java because it overlaps with /WebServices/src
+2019-03-20 21:54:05,559 [Worker-43] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-20 21:54:06,450 [Worker-43] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: WebServices:WebServices:0.0.1-SNAPSHOT @ C:\WorspaceFac\JAX-WS-HelloWorld-RPC-Example\WebServices\pom.xml.
+2019-03-20 21:54:06,919 [Worker-43] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WebServices/src
+2019-03-20 21:54:06,920 [Worker-43] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /WebServices/src/test/java because it overlaps with /WebServices/src
+2019-03-20 21:54:07,208 [Worker-43] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-03-20 21:54:07,380 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:54:07,404 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\JAX-WS-HelloWorld-RPC-Example\WebServices\src\main\resources
+2019-03-20 21:54:07,417 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:54:07,456 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\JAX-WS-HelloWorld-RPC-Example\WebServices\src\test\resources
+2019-03-20 21:54:26,164 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:54:26,171 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\JAX-WS-HelloWorld-RPC-Example\WebServices\src\main\resources
+2019-03-20 21:54:26,172 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:54:26,186 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\JAX-WS-HelloWorld-RPC-Example\WebServices\src\test\resources
+2019-03-20 21:54:31,289 [Worker-51] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\WorspaceFac\JAX-WS-HelloWorld-RPC-Example\WebServices
+2019-03-20 21:54:31,296 [Worker-51] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-20 21:54:39,785 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:54:39,910 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\JAX-WS-HelloWorld-RPC-Example\WebServices\src\main\resources
+2019-03-20 21:54:39,924 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:54:39,944 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\JAX-WS-HelloWorld-RPC-Example\WebServices\src\test\resources
+2019-03-20 21:58:33,563 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/jaxws-maven-plugin/1.12/jaxws-maven-plugin-1.12.pom
+2019-03-20 21:58:33,710 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/jaxws-maven-plugin/1.12/jaxws-maven-plugin-1.12.pom
+2019-03-20 21:58:33,832 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jax-ws-commons/pom/1.2/pom-1.2.pom
+2019-03-20 21:58:33,947 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jax-ws-commons/pom/1.2/pom-1.2.pom
+2019-03-20 21:58:34,065 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/jaxws-maven-plugin/1.12/jaxws-maven-plugin-1.12.jar
+2019-03-20 21:58:34,366 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/jaxws-maven-plugin/1.12/jaxws-maven-plugin-1.12.jar
+2019-03-20 21:58:34,896 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jcombat.ws:SOAPCFWebServiceExample:1.0-SNAPSHOT @ C:\WorspaceFac\SOAPCFWebServiceExample\pom.xml.
+2019-03-20 21:58:35,284 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.2.1.RELEASE/spring-core-4.2.1.RELEASE.pom
+2019-03-20 21:58:35,388 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.2.1.RELEASE/spring-core-4.2.1.RELEASE.pom
+2019-03-20 21:58:35,533 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.2.1.RELEASE/spring-web-4.2.1.RELEASE.pom
+2019-03-20 21:58:35,639 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.2.1.RELEASE/spring-web-4.2.1.RELEASE.pom
+2019-03-20 21:58:35,780 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.2.1.RELEASE/spring-aop-4.2.1.RELEASE.pom
+2019-03-20 21:58:35,897 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.2.1.RELEASE/spring-aop-4.2.1.RELEASE.pom
+2019-03-20 21:58:36,061 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.2.1.RELEASE/spring-beans-4.2.1.RELEASE.pom
+2019-03-20 21:58:36,207 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.2.1.RELEASE/spring-beans-4.2.1.RELEASE.pom
+2019-03-20 21:58:36,331 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.2.1.RELEASE/spring-context-4.2.1.RELEASE.pom
+2019-03-20 21:58:36,454 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.2.1.RELEASE/spring-context-4.2.1.RELEASE.pom
+2019-03-20 21:58:36,578 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.2.1.RELEASE/spring-expression-4.2.1.RELEASE.pom
+2019-03-20 21:58:36,696 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.2.1.RELEASE/spring-expression-4.2.1.RELEASE.pom
+2019-03-20 21:58:36,808 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jax-ws-commons/spring/jaxws-spring/1.9/jaxws-spring-1.9.pom
+2019-03-20 21:58:36,922 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jax-ws-commons/spring/jaxws-spring/1.9/jaxws-spring-1.9.pom
+2019-03-20 21:58:37,052 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jax-ws-commons/spring/1.9/spring-1.9.pom
+2019-03-20 21:58:37,175 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jax-ws-commons/spring/1.9/spring-1.9.pom
+2019-03-20 21:58:37,279 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jax-ws-commons/pom/1.3/pom-1.3.pom
+2019-03-20 21:58:37,404 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jax-ws-commons/pom/1.3/pom-1.3.pom
+2019-03-20 21:58:37,518 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/ws/jaxws-api/2.2.8/jaxws-api-2.2.8.pom
+2019-03-20 21:58:37,649 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/ws/jaxws-api/2.2.8/jaxws-api-2.2.8.pom
+2019-03-20 21:58:37,764 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.4/jaxb-api-2.2.4.pom
+2019-03-20 21:58:37,894 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.4/jaxb-api-2.2.4.pom
+2019-03-20 21:58:38,066 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/soap/saaj-api/1.3.4/saaj-api-1.3.4.pom
+2019-03-20 21:58:38,196 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/soap/saaj-api/1.3.4/saaj-api-1.3.4.pom
+2019-03-20 21:58:38,326 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/javax.annotation/3.1.1/javax.annotation-3.1.1.pom
+2019-03-20 21:58:38,458 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/javax.annotation/3.1.1/javax.annotation-3.1.1.pom
+2019-03-20 21:58:38,587 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/javaee-api/3.1.1/javaee-api-3.1.1.pom
+2019-03-20 21:58:38,724 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/javaee-api/3.1.1/javaee-api-3.1.1.pom
+2019-03-20 21:58:38,846 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/glassfish-parent/3.1.1/glassfish-parent-3.1.1.pom
+2019-03-20 21:58:39,068 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/glassfish-parent/3.1.1/glassfish-parent-3.1.1.pom
+2019-03-20 21:58:39,216 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/jws/jsr181-api/1.0-MR1/jsr181-api-1.0-MR1.pom
+2019-03-20 21:58:39,348 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/jws/jsr181-api/1.0-MR1/jsr181-api-1.0-MR1.pom
+2019-03-20 21:58:39,465 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/ws/jaxws-rt/2.2.8-promoted-b146/jaxws-rt-2.2.8-promoted-b146.pom
+2019-03-20 21:58:39,603 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/ws/jaxws-rt/2.2.8-promoted-b146/jaxws-rt-2.2.8-promoted-b146.pom
+2019-03-20 21:58:39,722 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/ws/bundles/2.2.8-promoted-b146/bundles-2.2.8-promoted-b146.pom
+2019-03-20 21:58:39,835 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/ws/bundles/2.2.8-promoted-b146/bundles-2.2.8-promoted-b146.pom
+2019-03-20 21:58:39,966 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/ws/project/2.2.8-promoted-b146/project-2.2.8-promoted-b146.pom
+2019-03-20 21:58:40,100 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/ws/project/2.2.8-promoted-b146/project-2.2.8-promoted-b146.pom
+2019-03-20 21:58:40,249 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/ws/jaxws-ri-bom/2.2.8-promoted-b146/jaxws-ri-bom-2.2.8-promoted-b146.pom
+2019-03-20 21:58:40,388 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/ws/jaxws-ri-bom/2.2.8-promoted-b146/jaxws-ri-bom-2.2.8-promoted-b146.pom
+2019-03-20 21:58:40,471 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.ws:jaxws-rt:jar:2.2.8-promoted-b146 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-03-20 21:58:40,638 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/3.2.3.RELEASE/spring-core-3.2.3.RELEASE.pom
+2019-03-20 21:58:40,745 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/3.2.3.RELEASE/spring-core-3.2.3.RELEASE.pom
+2019-03-20 21:58:40,847 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.2.3.RELEASE/spring-beans-3.2.3.RELEASE.pom
+2019-03-20 21:58:40,984 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.2.3.RELEASE/spring-beans-3.2.3.RELEASE.pom
+2019-03-20 21:58:41,089 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/3.2.3.RELEASE/spring-context-3.2.3.RELEASE.pom
+2019-03-20 21:58:41,215 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/3.2.3.RELEASE/spring-context-3.2.3.RELEASE.pom
+2019-03-20 21:58:41,324 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.2.3.RELEASE/spring-aop-3.2.3.RELEASE.pom
+2019-03-20 21:58:41,452 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.2.3.RELEASE/spring-aop-3.2.3.RELEASE.pom
+2019-03-20 21:58:41,560 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.2.3.RELEASE/spring-expression-3.2.3.RELEASE.pom
+2019-03-20 21:58:41,686 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.2.3.RELEASE/spring-expression-3.2.3.RELEASE.pom
+2019-03-20 21:58:41,792 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/3.2.3.RELEASE/spring-web-3.2.3.RELEASE.pom
+2019-03-20 21:58:41,921 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/3.2.3.RELEASE/spring-web-3.2.3.RELEASE.pom
+2019-03-20 21:58:42,038 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-spring/3.14/xbean-spring-3.14.pom
+2019-03-20 21:58:42,167 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-spring/3.14/xbean-spring-3.14.pom
+2019-03-20 21:58:42,287 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/xbean/xbean/3.14/xbean-3.14.pom
+2019-03-20 21:58:42,417 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/xbean/xbean/3.14/xbean-3.14.pom
+2019-03-20 21:58:42,638 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/ws/jaxws-rt/2.2.8/jaxws-rt-2.2.8.pom
+2019-03-20 21:58:42,774 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/ws/jaxws-rt/2.2.8/jaxws-rt-2.2.8.pom
+2019-03-20 21:58:42,890 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/ws/bundles/2.2.8/bundles-2.2.8.pom
+2019-03-20 21:58:43,019 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/ws/bundles/2.2.8/bundles-2.2.8.pom
+2019-03-20 21:58:43,134 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/ws/project/2.2.8/project-2.2.8.pom
+2019-03-20 21:58:43,273 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/ws/project/2.2.8/project-2.2.8.pom
+2019-03-20 21:58:43,389 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/ws/jaxws-ri-bom/2.2.8/jaxws-ri-bom-2.2.8.pom
+2019-03-20 21:58:43,513 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/ws/jaxws-ri-bom/2.2.8/jaxws-ri-bom-2.2.8.pom
+2019-03-20 21:58:43,530 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.ws:jaxws-rt:jar:2.2.8 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-03-20 21:58:43,689 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.2.1.RELEASE/spring-core-4.2.1.RELEASE.jar
+2019-03-20 21:58:44,755 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.2.1.RELEASE/spring-core-4.2.1.RELEASE.jar
+2019-03-20 21:58:44,868 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.2.1.RELEASE/spring-web-4.2.1.RELEASE.jar
+2019-03-20 21:58:45,597 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.2.1.RELEASE/spring-web-4.2.1.RELEASE.jar
+2019-03-20 21:58:45,703 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.2.1.RELEASE/spring-aop-4.2.1.RELEASE.jar
+2019-03-20 21:58:47,025 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.ws:jaxws-rt:jar:2.2.8-promoted-b146 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-03-20 21:58:47,109 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.ws:jaxws-rt:jar:2.2.8 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-03-20 21:58:47,164 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.2.1.RELEASE/spring-aop-4.2.1.RELEASE.jar
+2019-03-20 21:58:47,277 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.2.1.RELEASE/spring-beans-4.2.1.RELEASE.jar
+2019-03-20 21:58:47,935 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.2.1.RELEASE/spring-aop-4.2.1.RELEASE.jar
+2019-03-20 21:58:47,961 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.2.1.RELEASE/spring-beans-4.2.1.RELEASE.jar
+2019-03-20 21:58:48,129 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.2.1.RELEASE/spring-context-4.2.1.RELEASE.jar
+2019-03-20 21:58:49,374 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.2.1.RELEASE/spring-context-4.2.1.RELEASE.jar
+2019-03-20 21:58:49,402 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.2.1.RELEASE/spring-aop-4.2.1.RELEASE.jar
+2019-03-20 21:58:49,482 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.2.1.RELEASE/spring-expression-4.2.1.RELEASE.jar
+2019-03-20 21:58:49,663 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.2.1.RELEASE/spring-beans-4.2.1.RELEASE.jar
+2019-03-20 21:58:50,321 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.2.1.RELEASE/spring-expression-4.2.1.RELEASE.jar
+2019-03-20 21:58:50,409 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jax-ws-commons/spring/jaxws-spring/1.9/jaxws-spring-1.9.jar
+2019-03-20 21:58:50,450 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.2.1.RELEASE/spring-beans-4.2.1.RELEASE.jar
+2019-03-20 21:58:50,559 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.2.1.RELEASE/spring-context-4.2.1.RELEASE.jar
+2019-03-20 21:58:50,783 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jax-ws-commons/spring/jaxws-spring/1.9/jaxws-spring-1.9.jar
+2019-03-20 21:58:50,899 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/ws/jaxws-api/2.2.8/jaxws-api-2.2.8.jar
+2019-03-20 21:58:51,468 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/ws/jaxws-api/2.2.8/jaxws-api-2.2.8.jar
+2019-03-20 21:58:51,557 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.4/jaxb-api-2.2.4.jar
+2019-03-20 21:58:51,657 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.2.1.RELEASE/spring-context-4.2.1.RELEASE.jar
+2019-03-20 21:58:51,742 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.2.1.RELEASE/spring-expression-4.2.1.RELEASE.jar
+2019-03-20 21:58:51,891 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.4/jaxb-api-2.2.4.jar
+2019-03-20 21:58:51,977 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/soap/saaj-api/1.3.4/saaj-api-1.3.4.jar
+2019-03-20 21:58:52,293 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/soap/saaj-api/1.3.4/saaj-api-1.3.4.jar
+2019-03-20 21:58:52,378 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/javax.annotation/3.1.1/javax.annotation-3.1.1.jar
+2019-03-20 21:58:52,608 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/javax.annotation/3.1.1/javax.annotation-3.1.1.jar
+2019-03-20 21:58:52,700 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-spring/3.14/xbean-spring-3.14.jar
+2019-03-20 21:58:52,804 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.2.1.RELEASE/spring-expression-4.2.1.RELEASE.jar
+2019-03-20 21:58:52,887 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jax-ws-commons/spring/jaxws-spring/1.9/jaxws-spring-1.9.jar
+2019-03-20 21:58:53,065 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-spring/3.14/xbean-spring-3.14.jar
+2019-03-20 21:58:53,152 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/jws/jsr181-api/1.0-MR1/jsr181-api-1.0-MR1.jar
+2019-03-20 21:58:53,297 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jax-ws-commons/spring/jaxws-spring/1.9/jaxws-spring-1.9.jar
+2019-03-20 21:58:53,336 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/jws/jsr181-api/1.0-MR1/jsr181-api-1.0-MR1.jar
+2019-03-20 21:58:53,386 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/ws/jaxws-api/2.2.8/jaxws-api-2.2.8.jar
+2019-03-20 21:58:53,473 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/ws/jaxws-rt/2.2.8/jaxws-rt-2.2.8.jar
+2019-03-20 21:58:54,359 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/ws/jaxws-api/2.2.8/jaxws-api-2.2.8.jar
+2019-03-20 21:58:54,586 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.4/jaxb-api-2.2.4.jar
+2019-03-20 21:58:55,177 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.4/jaxb-api-2.2.4.jar
+2019-03-20 21:58:55,422 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/soap/saaj-api/1.3.4/saaj-api-1.3.4.jar
+2019-03-20 21:58:55,739 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/ws/jaxws-rt/2.2.8/jaxws-rt-2.2.8.jar
+2019-03-20 21:58:55,960 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/soap/saaj-api/1.3.4/saaj-api-1.3.4.jar
+2019-03-20 21:58:56,052 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/javax.annotation/3.1.1/javax.annotation-3.1.1.jar
+2019-03-20 21:58:56,568 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/javax.annotation/3.1.1/javax.annotation-3.1.1.jar
+2019-03-20 21:58:56,762 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-spring/3.14/xbean-spring-3.14.jar
+2019-03-20 21:58:57,635 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.ws:jaxws-rt:jar:2.2.8-promoted-b146 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-03-20 21:58:57,710 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.ws:jaxws-rt:jar:2.2.8 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-03-20 21:58:57,742 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/xbean/xbean-spring/3.14/xbean-spring-3.14.jar
+2019-03-20 21:58:57,836 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/jws/jsr181-api/1.0-MR1/jsr181-api-1.0-MR1.jar
+2019-03-20 21:58:57,940 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/jws/jsr181-api/1.0-MR1/jsr181-api-1.0-MR1.jar
+2019-03-20 21:58:58,032 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/ws/jaxws-rt/2.2.8/jaxws-rt-2.2.8.jar
+2019-03-20 21:58:59,295 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SOAPCFWebServiceExample/src/main/java
+2019-03-20 21:58:59,302 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SOAPCFWebServiceExample/src/main/resources
+2019-03-20 21:58:59,314 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SOAPCFWebServiceExample/src/test/java
+2019-03-20 21:59:00,191 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/ws/jaxws-rt/2.2.8/jaxws-rt-2.2.8.jar
+2019-03-20 21:59:00,618 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.ws:jaxws-rt:jar:2.2.8-promoted-b146 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-03-20 21:59:00,702 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.ws:jaxws-rt:jar:2.2.8 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-03-20 21:59:03,863 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.ws:jaxws-rt:jar:2.2.8-promoted-b146 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-03-20 21:59:03,918 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.ws:jaxws-rt:jar:2.2.8 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-03-20 21:59:03,980 [Worker-60] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 31 sec
+2019-03-20 21:59:04,555 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.ws:jaxws-rt:jar:2.2.8-promoted-b146 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-03-20 21:59:04,619 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.ws:jaxws-rt:jar:2.2.8 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-03-20 21:59:04,640 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:59:04,651 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-20 21:59:04,672 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-20 21:59:04,681 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorspaceFac\SOAPCFWebServiceExample\src\test\resources
+2019-03-20 21:59:07,270 [Worker-57] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/Edison/AppData/Local/Temp/RemoteBundleDiscoveryStrategy7451121091362271603.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_3889929913737789067.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2019-03-20 21:59:07,271 [Worker-57] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2019-03-20 21:59:07,286 [Worker-57] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/Edison/AppData/Local/Temp/RemoteBundleDiscoveryStrategy7451121091362271603.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_3889929913737789067.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2019-03-20 21:59:07,293 [Worker-57] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2019-03-20 22:06:58,454 [Worker-66] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-20 22:06:58,456 [Worker-66] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec

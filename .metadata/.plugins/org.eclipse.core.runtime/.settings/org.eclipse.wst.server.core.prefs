@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+module-start-timeout=300000
+runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<runtimes>\r\n  <runtime PROPERTY_EXEC_ENVIRONMENT\="JavaSE-1.8" id\="WildFly 11.0 Runtime" location\="C\:/wf16" name\="WildFly 11.0 Runtime" org.jboss.ide.eclipse.as.core.runtime.configurationName\="" org.jboss.ide.eclipse.as.core.server.internal.v7.BASE_DIRECTORY\="standalone" org.jboss.ide.eclipse.as.core.server.internal.v7.CONFIG_FILE\="standalone.xml" runtime-type-id\="org.jboss.ide.eclipse.as.runtime.wildfly.110" timestamp\="0"/>\r\n</runtimes>\r\n

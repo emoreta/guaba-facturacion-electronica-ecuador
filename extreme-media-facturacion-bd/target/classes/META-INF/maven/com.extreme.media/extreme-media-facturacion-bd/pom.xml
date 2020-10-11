@@ -1,0 +1,61 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.extreme.media</groupId>
+  <artifactId>extreme-media-facturacion-bd</artifactId>
+  <version>1.0.0</version>
+  <packaging>jar</packaging>
+
+  <name>extreme-media-facturacion-bd</name>
+  <url>http://maven.apache.org</url>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>3.8.1</version>
+      <scope>test</scope>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/postgresql/postgresql -->
+	<dependency>
+	    <groupId>postgresql</groupId>
+	    <artifactId>postgresql</artifactId>
+	    <version>9.1-901-1.jdbc4</version>
+	</dependency>
+
+	<dependency>
+		<groupId>com.extreme.media</groupId>
+		<artifactId>extreme-media-commons</artifactId>
+		<version>1.0.0</version>
+	</dependency>
+	<dependency>
+		<groupId>com.extreme.media</groupId>
+		<artifactId>
+			extreme-media-facturacion-document-factura
+		</artifactId>
+		<version>1.0.0</version>
+	</dependency>
+	<dependency>
+		<groupId>com.extreme.media</groupId>
+		<artifactId>extreme-media-facturacion-sign</artifactId>
+		<version>1.0.0</version>
+	</dependency>
+	<dependency>
+		<groupId>com.extreme.media</groupId>
+		<artifactId>extreme-media-facturacion-send-document</artifactId>
+		<version>1.0.0</version>
+	</dependency>
+	<dependency>
+		<groupId>com.extreme.media</groupId>
+		<artifactId>
+			extreme-media-facturacion-security-encript
+		</artifactId>
+		<version>1.0.0</version>
+	</dependency>
+  </dependencies>
+</project>
