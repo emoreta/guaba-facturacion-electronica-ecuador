@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<config >
+	<general>
+		<log-level>TRACE</log-level>
+	</general>
+	<filesFolderAutomatic>
+		<files-path>C:\FAC\files\automatic\</files-path>	
+	</filesFolderAutomatic>
+	<filesFolderValidated>
+		<files-path>C:\FAC\xml\</files-path>	
+	</filesFolderValidated>
+	<filesFolderError>
+		<files-path>C:\FAC\files\error\</files-path>	
+	</filesFolderError>
+	<filesFolderExternal>
+		<files-path>C:\FAC\files\external\</files-path>	
+	</filesFolderExternal>
+</config>

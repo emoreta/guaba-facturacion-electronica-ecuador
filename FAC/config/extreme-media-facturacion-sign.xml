@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<config>
+		<property ruc="1718921342001" ubicacion="C:\FAC\sign\aaaaaaaaaa.p12" contrasena="ekzph3XMyO6OcfS+n9vPAA==" logo="C:\FAC\assets\logo\GuabaEstudioTranparente.png" template="1"/><!--0 standar 1 personalizado-->
+		<property ruc="1712715463001" ubicacion="C:\FAC\sign\bbbbbbbbbb.p12" contrasena="ekzph3XMyO6OcfS+n9vPAA==" logo="C:\FAC\assets\logo\GuabaEstudioTranparente.png" template="0"/>
+		<property ruc="1718921362003" ubicacion="C:\FIRMA ELECTRONICA\ccccccccc.p12" contrasena="ekzph3XMyO6OcfS+n9vPAA==" logo="C:\FAC\assets\logo\GuabaEstudioTranparente.png" template="0"/>
+		<property ruc="1718921362004" ubicacion="C:\FIRMA ELECTRONICA\ddddddddddd.p12" contrasena="ekzph3XMyO6OcfS+n9vPAA==" logo="C:\FAC\assets\logo\GuabaEstudioTranparente.png" template="0"/>
+		<property ruc="1718921362005" ubicacion="C:\FIRMA ELECTRONICA\eeeeeeeeeeee.p12" contrasena="ekzph3XMyO6OcfS+n9vPAA==" logo="C:\FAC\assets\logo\GuabaEstudioTranparente.png" template="0"/>
+		<property ruc="1718921362006" ubicacion="C:\FIRMA ELECTRONICA\fffffffffffff.p12" contrasena="ekzph3XMyO6OcfS+n9vPAA==" logo="C:\FAC\assets\logo\GuabaEstudioTranparente.png" template="0"/>
+		<property ruc="1718921362007" ubicacion="C:\FIRMA ELECTRONICA\gggggggggg.p12" contrasena="ekzph3XMyO6OcfS+n9vPAA==" logo="C:\FAC\assets\logo\GuabaEstudioTranparente.png" template="0"/>
+
+</config>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<config>
+	<!-- general -->
+	<property name="ambiente" value="1"/><!--1 PRUEBAS 2 PRODUCCION-->
+	<property name="tipoEmision" value="1"/>
+	
+	<property name="URL_RECEPCION_PRUEBAS" value="https://celcer.sri.gob.ec/comprobantes-electronicos-ws/RecepcionComprobantesOffline?wsdl"/>
+	<property name="URL_AUTORIZACION_PRUEBAS" value="https://celcer.sri.gob.ec/comprobantes-electronicos-ws/AutorizacionComprobantesOffline?wsdl"/>
+	<property name="HOST_PRUEBAS" value="celcer.sri.gob.ec"/>
+	
+	<property name="URL_RECEPCION_PRODUCCION" value="https://cel.sri.gob.ec/comprobantes-electronicos-ws/RecepcionComprobantesOffline?wsdl"/>
+	<property name="URL_AUTORIZACION_PRODUCCION" value="https://cel.sri.gob.ec/comprobantes-electronicos-ws/AutorizacionComprobantesOffline?wsdl"/>
+	<property name="HOST_PRODUCCION" value="cel.sri.gob.ec"/>
+	<!--globalization-->
+	
+	<property name="iva" value="0.12"/><!--NO SE UTILIZA INFORMACION VIENE DE BASE DE DATOS-->
+    <!--url-->
+	
+	<property name="firmaFisica" value="C:\FAC\sign\xxxxxxx.p12"/>
+	<property name="contrasenaFirma" value="ekzph3XMyO6OcfS+n9vPAA=="/>
+	
+	<property name="fechaExpiracionFirma" value="24-07-2018"/>
+	
+	<property name="ftp" value="xxxxxx.ec;invitado@xxxxxx.ec;invitado"/>
+	
+	<!--CUANDO SE QUIERE MOVER LOS ARCHIVOS EN EL MISMO SERVIDOR-->
+	<property name="UbicacionServidor" value="C:\xampp\htdocs\AdminPanelMaster\DocumentosDigitales\Facturas\"/>
+	
+	<property name="WaitTimeSend" value="1000"/>
+	
+	<property name="ImagenPdf" value="C:\FAC\assets\logo\GuabaEstudioTranparente.png"/>
+	<!--<property name="bd" value="jdbc:postgresql://127.0.0.1:5432/mtd_pos_fact_elect;postgres;admin"/>-->
+	<property name="bd" value="oCPl82PuwG0/xwj5wHkYzPFpGJpf7Xtp5dJc5XV+1SesKk/hXp1zcyp/wa0Yk9BxBfPA4UMyBPXkOBcm8H1D3jBl4wLZir3Q"/>
+	<!--si hay problema de conexion solicitar ip publica-->
+	<!--<property name="bdMysql" value="jdbc:mysql://xxxxx.ec/xxxxxx_fact;xxxxxx_admin;admin"/>-->
+	<property name="bdMysql" value="AB4Vs6YkBAGrwp/azMzue6KgBYLzXtQSxXjHcs76pO374+Xl3R4lmtvn/VqwsmqGMGXjAtmKvdA="/>
+	<!--<property name="bdMysql" value="jdbc:mysql://localhost/fact;root; ;"/>--><!--local-->
+	<!--configuracion correo usuario,contrasena,host,port,correoTema-->
+	<property name="correoNotificacion" value="xxxxx.cccccc@xxxxxx.ec;guaba.studio;mail.guaba.ec;587;rrrrrrr@hotmail.com"/>
+
+ </config>

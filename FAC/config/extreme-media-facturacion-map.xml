@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<config>
+	<factura>
+	<infoTributaria>
+		<property name="ambienteInfoTributaria" join="ambiente"/>
+		<property name="tipoEmisionInfoTributaria" join="tipoEmision"/>
+		<property name="razonSocialInfoTributaria" join="razonSocial"/>
+		<property name="nombreComercialInfoTributaria" join="nombreComercial"/>
+		<property name="rucInfoTributaria" join="ruc"/>
+		<property name="claveAccesoInfoTributaria" join="claveAcceso"/>
+		<property name="codDocInfoTributaria" join="codDoc"/>
+		<property name="estabInfoTributaria" join="estab"/>
+		<property name="ptoEmiInfoTributaria" join="ptoEmi"/>
+		<property name="secuencialInfoTributaria" join="secuencial"/>
+		<property name="dirMatrizInfoTributaria" join="dirMatriz"/>
+	</infoTributaria>
+	<infoFactura>
+		<property name="fechaEmisionInfoFactura" join="fechaEmision"/>
+		<property name="dirEstablecimientoInfoFactura" join="dirEstablecimiento"/>
+		<property name="obligadoContabilidadInfoFactura" join="obligadoContabilidad"/>
+		<property name="tipoIdentificacionCompradorInfoFactura" join="tipoIdentificacionComprador"/>
+		<property name="razonSocialCompradorInfoFactura" join="razonSocialComprador"/>
+		<property name="identificacionCompradorInfoFactura" join="identificacionComprador"/>
+		<property name="direccionCompradorInfoFactura" join="direccionComprador"/>
+		<property name="totalSinImpuestosInfoFactura" join="totalSinImpuestos"/>
+		<property name="totalDescuentoInfoFactura" join="totalDescuento"/>
+		<property name="totalConImpuestosInfoFactura" join="totalConImpuestos"/>
+			<totalImpuesto>
+				<property name="codigoTotalImpuesto" join="codigo"/>
+				<property name="codigoPorcentajeTotalImpuesto" join="codigoPorcentaje"/>
+				<property name="baseImponibleTotalImpuesto" join="baseImponible"/>
+				<property name="valorTotalImpuesto" join="valor"/>
+			</totalImpuesto>
+		<property name="propinaInfoFactura" join="propina"/>
+		<property name="importeTotalInfoFactura" join="importeTotal"/>
+		<property name="monedaInfoFactura" join="moneda"/>
+	</infoFactura>
+	<!--dinamico-->
+	<detalles>
+		<detalle>
+			<property name="codigoPrincipalDetalle" join="codigoPrincipal"/>
+			<property name="descripcionDetalle" join="descripcion"/>
+			<property name="cantidadDetalle" join="cantidad"/>
+			<property name="precioUnitarioDetalle" join="precioUnitario"/>
+			<property name="descuentoDetalle" join="descuento"/>
+			<property name="precioTotalSinImpuestoDetalle" join="precioTotalSinImpuesto"/>
+			<impuestos>
+				<impuesto>
+					<property name="codigoImpuesto" join="codigo"/>
+					<property name="codigoPorcentajeImpuesto" join="codigoPorcentaje"/>
+					<property name="tarifaImpuesto" join="tarifa"/>
+					<property name="baseImponibleImpuesto" join="baseImponible"/>
+					<property name="valorImpuesto" join="valor"/>
+				</impuesto>
+			</impuestos>
+		</detalle>
+	</detalles>
+</factura>
+</config>

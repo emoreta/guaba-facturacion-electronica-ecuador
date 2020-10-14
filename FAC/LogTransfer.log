@@ -1,0 +1,266 @@
+
+2018-10-22 22:08:55 [INFO ] [com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:105)] *******INICIANDO TRANSFERENCIA DE ARCHIVOS******
+
+2018-10-22 22:10:22 [INFO ] [com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:105)] *******INICIANDO TRANSFERENCIA DE ARCHIVOS******
+
+2018-10-29 23:22:10 [INFO ] [com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:105)] *******INICIANDO TRANSFERENCIA DE ARCHIVOS******
+
+2018-10-29 23:22:14 [ERROR] [com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:220)] ERROR AL ENVIAR CORREO:
+javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\FAC\xml\1010201801171892136200110010010000062481234567813.pdf (El sistema no puede encontrar el archivo especificado)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1365)
+	at javax.mail.Transport.send0(Transport.java:255)
+	at javax.mail.Transport.send(Transport.java:124)
+	at com.extreme.media.mail.SendMail.SendMailDocumento(SendMail.java:71)
+	at com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:215)
+Caused by: java.io.FileNotFoundException: C:\FAC\xml\1010201801171892136200110010010000062481234567813.pdf (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at javax.activation.FileDataSource.getInputStream(Unknown Source)
+	at javax.activation.DataHandler.writeTo(Unknown Source)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:1692)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:996)
+	at javax.mail.internet.MimeMultipart.writeTo(MimeMultipart.java:561)
+	at com.sun.mail.handlers.multipart_mixed.writeTo(multipart_mixed.java:84)
+	at javax.activation.ObjectDataContentHandler.writeTo(Unknown Source)
+	at javax.activation.DataHandler.writeTo(Unknown Source)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:1692)
+	at javax.mail.internet.MimeMessage.writeTo(MimeMessage.java:1913)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1315)
+	... 4 more
+
+2018-10-29 23:22:15 [ERROR] [com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:220)] ERROR AL ENVIAR CORREO:
+javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\FAC\xml\1010201801171892136200110010010000063281234567818.pdf (El sistema no puede encontrar el archivo especificado)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1365)
+	at javax.mail.Transport.send0(Transport.java:255)
+	at javax.mail.Transport.send(Transport.java:124)
+	at com.extreme.media.mail.SendMail.SendMailDocumento(SendMail.java:71)
+	at com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:215)
+Caused by: java.io.FileNotFoundException: C:\FAC\xml\1010201801171892136200110010010000063281234567818.pdf (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at javax.activation.FileDataSource.getInputStream(Unknown Source)
+	at javax.activation.DataHandler.writeTo(Unknown Source)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:1692)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:996)
+	at javax.mail.internet.MimeMultipart.writeTo(MimeMultipart.java:561)
+	at com.sun.mail.handlers.multipart_mixed.writeTo(multipart_mixed.java:84)
+	at javax.activation.ObjectDataContentHandler.writeTo(Unknown Source)
+	at javax.activation.DataHandler.writeTo(Unknown Source)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:1692)
+	at javax.mail.internet.MimeMessage.writeTo(MimeMessage.java:1913)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1315)
+	... 4 more
+
+2018-10-29 23:22:17 [ERROR] [com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:220)] ERROR AL ENVIAR CORREO:
+javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\FAC\xml\1010201801171892136200110010010000062651234567816.pdf (El sistema no puede encontrar el archivo especificado)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1365)
+	at javax.mail.Transport.send0(Transport.java:255)
+	at javax.mail.Transport.send(Transport.java:124)
+	at com.extreme.media.mail.SendMail.SendMailDocumento(SendMail.java:71)
+	at com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:215)
+Caused by: java.io.FileNotFoundException: C:\FAC\xml\1010201801171892136200110010010000062651234567816.pdf (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at javax.activation.FileDataSource.getInputStream(Unknown Source)
+	at javax.activation.DataHandler.writeTo(Unknown Source)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:1692)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:996)
+	at javax.mail.internet.MimeMultipart.writeTo(MimeMultipart.java:561)
+	at com.sun.mail.handlers.multipart_mixed.writeTo(multipart_mixed.java:84)
+	at javax.activation.ObjectDataContentHandler.writeTo(Unknown Source)
+	at javax.activation.DataHandler.writeTo(Unknown Source)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:1692)
+	at javax.mail.internet.MimeMessage.writeTo(MimeMessage.java:1913)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1315)
+	... 4 more
+
+2018-10-29 23:22:19 [ERROR] [com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:220)] ERROR AL ENVIAR CORREO:
+javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\FAC\xml\1010201801171892136200110010010000063191234567819.pdf (El sistema no puede encontrar el archivo especificado)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1365)
+	at javax.mail.Transport.send0(Transport.java:255)
+	at javax.mail.Transport.send(Transport.java:124)
+	at com.extreme.media.mail.SendMail.SendMailDocumento(SendMail.java:71)
+	at com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:215)
+Caused by: java.io.FileNotFoundException: C:\FAC\xml\1010201801171892136200110010010000063191234567819.pdf (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at javax.activation.FileDataSource.getInputStream(Unknown Source)
+	at javax.activation.DataHandler.writeTo(Unknown Source)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:1692)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:996)
+	at javax.mail.internet.MimeMultipart.writeTo(MimeMultipart.java:561)
+	at com.sun.mail.handlers.multipart_mixed.writeTo(multipart_mixed.java:84)
+	at javax.activation.ObjectDataContentHandler.writeTo(Unknown Source)
+	at javax.activation.DataHandler.writeTo(Unknown Source)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:1692)
+	at javax.mail.internet.MimeMessage.writeTo(MimeMessage.java:1913)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1315)
+	... 4 more
+
+2018-10-29 23:22:21 [ERROR] [com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:220)] ERROR AL ENVIAR CORREO:
+javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\FAC\xml\1010201801171892136200110010010000061261234567811.pdf (El sistema no puede encontrar el archivo especificado)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1365)
+	at javax.mail.Transport.send0(Transport.java:255)
+	at javax.mail.Transport.send(Transport.java:124)
+	at com.extreme.media.mail.SendMail.SendMailDocumento(SendMail.java:71)
+	at com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:215)
+Caused by: java.io.FileNotFoundException: C:\FAC\xml\1010201801171892136200110010010000061261234567811.pdf (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at javax.activation.FileDataSource.getInputStream(Unknown Source)
+	at javax.activation.DataHandler.writeTo(Unknown Source)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:1692)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:996)
+	at javax.mail.internet.MimeMultipart.writeTo(MimeMultipart.java:561)
+	at com.sun.mail.handlers.multipart_mixed.writeTo(multipart_mixed.java:84)
+	at javax.activation.ObjectDataContentHandler.writeTo(Unknown Source)
+	at javax.activation.DataHandler.writeTo(Unknown Source)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:1692)
+	at javax.mail.internet.MimeMessage.writeTo(MimeMessage.java:1913)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1315)
+	... 4 more
+
+2018-10-29 23:22:28 [INFO ] [com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:216)] CORREO ENVIADO:edixavi@hotmail.com  1010201801171892136200110010010000060061234567817_AUTORIZADO.xml
+
+2018-10-29 23:22:30 [INFO ] [com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:216)] CORREO ENVIADO:edixavi@hotmail.com  1010201801171892136200110010010000060091234567813_AUTORIZADO.xml
+
+2018-10-29 23:22:36 [INFO ] [com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:216)] CORREO ENVIADO:edixavi@hotmail.com  1010201801171892136200110010010000061711234567815_AUTORIZADO.xml
+
+2018-10-29 23:22:36 [INFO ] [com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:227)] SUBIENDO  ARCHIVOS:
+
+2018-10-29 23:22:38 [ERROR] [com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:233)] ERROR:
+java.io.FileNotFoundException: C:\FAC\xml\1010201801171892136200110010010000062481234567813_AUTORIZADO.xml (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.extreme.media.ftp.Client.ConexionFtp(Client.java:89)
+	at com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:228)
+
+2018-11-07 12:59:54 [INFO ] [com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:105)] *******INICIANDO TRANSFERENCIA DE ARCHIVOS******
+
+2018-11-07 12:59:55 [INFO ] [com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:227)] SUBIENDO  ARCHIVOS:
+
+2018-11-07 13:02:31 [INFO ] [com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:105)] *******INICIANDO TRANSFERENCIA DE ARCHIVOS******
+
+2018-11-07 13:02:32 [INFO ] [com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:227)] SUBIENDO  ARCHIVOS:
+
+2018-11-07 13:05:00 [INFO ] [com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:105)] *******INICIANDO TRANSFERENCIA DE ARCHIVOS******
+
+2018-11-07 13:05:04 [ERROR] [com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:220)] ERROR AL ENVIAR CORREO:
+javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\FAC\xml\1010201801171892136200110010010000062481234567813.pdf (El sistema no puede encontrar el archivo especificado)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1365)
+	at javax.mail.Transport.send0(Transport.java:255)
+	at javax.mail.Transport.send(Transport.java:124)
+	at com.extreme.media.mail.SendMail.SendMailDocumento(SendMail.java:71)
+	at com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:215)
+Caused by: java.io.FileNotFoundException: C:\FAC\xml\1010201801171892136200110010010000062481234567813.pdf (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at javax.activation.FileDataSource.getInputStream(Unknown Source)
+	at javax.activation.DataHandler.writeTo(Unknown Source)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:1692)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:996)
+	at javax.mail.internet.MimeMultipart.writeTo(MimeMultipart.java:561)
+	at com.sun.mail.handlers.multipart_mixed.writeTo(multipart_mixed.java:84)
+	at javax.activation.ObjectDataContentHandler.writeTo(Unknown Source)
+	at javax.activation.DataHandler.writeTo(Unknown Source)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:1692)
+	at javax.mail.internet.MimeMessage.writeTo(MimeMessage.java:1913)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1315)
+	... 4 more
+
+2018-11-07 13:05:04 [INFO ] [com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:227)] SUBIENDO  ARCHIVOS:
+
+2018-11-07 13:05:06 [ERROR] [com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:233)] ERROR:
+java.io.FileNotFoundException: C:\FAC\xml\1010201801171892136200110010010000062481234567813_AUTORIZADO.xml (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at com.extreme.media.ftp.Client.ConexionFtp(Client.java:89)
+	at com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:228)
+
+2018-11-21 21:24:14 [INFO ] [com.extreme.media.nc.transfer.FileTranferNc.main(FileTranferNc.java:103)] *******INICIANDO TRANSFERENCIA DE ARCHIVOS******
+
+2018-11-21 21:24:18 [ERROR] [com.extreme.media.nc.transfer.FileTranferNc.main(FileTranferNc.java:218)] ERROR AL ENVIAR CORREO:
+javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\FAC\xml\1010201801171892136200110010010000062481234567813.pdf (El sistema no puede encontrar el archivo especificado)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1365)
+	at javax.mail.Transport.send0(Transport.java:255)
+	at javax.mail.Transport.send(Transport.java:124)
+	at com.extreme.media.mail.SendMail.SendMailDocumento(SendMail.java:71)
+	at com.extreme.media.nc.transfer.FileTranferNc.main(FileTranferNc.java:213)
+Caused by: java.io.FileNotFoundException: C:\FAC\xml\1010201801171892136200110010010000062481234567813.pdf (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at javax.activation.FileDataSource.getInputStream(Unknown Source)
+	at javax.activation.DataHandler.writeTo(Unknown Source)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:1692)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:996)
+	at javax.mail.internet.MimeMultipart.writeTo(MimeMultipart.java:561)
+	at com.sun.mail.handlers.multipart_mixed.writeTo(multipart_mixed.java:84)
+	at javax.activation.ObjectDataContentHandler.writeTo(Unknown Source)
+	at javax.activation.DataHandler.writeTo(Unknown Source)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:1692)
+	at javax.mail.internet.MimeMessage.writeTo(MimeMessage.java:1913)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1315)
+	... 4 more
+
+2018-11-21 21:24:18 [INFO ] [com.extreme.media.nc.transfer.FileTranferNc.main(FileTranferNc.java:225)] SUBIENDO  ARCHIVOS:
+
+2018-11-21 21:24:22 [INFO ] [com.extreme.media.nc.transfer.FileTranferNc.main(FileTranferNc.java:103)] *******INICIANDO TRANSFERENCIA DE ARCHIVOS******
+
+2018-11-21 21:24:25 [ERROR] [com.extreme.media.nc.transfer.FileTranferNc.main(FileTranferNc.java:218)] ERROR AL ENVIAR CORREO:
+javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\FAC\xml\1010201801171892136200110010010000062481234567813.pdf (El sistema no puede encontrar el archivo especificado)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1365)
+	at javax.mail.Transport.send0(Transport.java:255)
+	at javax.mail.Transport.send(Transport.java:124)
+	at com.extreme.media.mail.SendMail.SendMailDocumento(SendMail.java:71)
+	at com.extreme.media.nc.transfer.FileTranferNc.main(FileTranferNc.java:213)
+Caused by: java.io.FileNotFoundException: C:\FAC\xml\1010201801171892136200110010010000062481234567813.pdf (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at javax.activation.FileDataSource.getInputStream(Unknown Source)
+	at javax.activation.DataHandler.writeTo(Unknown Source)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:1692)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:996)
+	at javax.mail.internet.MimeMultipart.writeTo(MimeMultipart.java:561)
+	at com.sun.mail.handlers.multipart_mixed.writeTo(multipart_mixed.java:84)
+	at javax.activation.ObjectDataContentHandler.writeTo(Unknown Source)
+	at javax.activation.DataHandler.writeTo(Unknown Source)
+	at javax.mail.internet.MimeBodyPart.writeTo(MimeBodyPart.java:1692)
+	at javax.mail.internet.MimeMessage.writeTo(MimeMessage.java:1913)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1315)
+	... 4 more
+
+2018-11-21 21:24:25 [INFO ] [com.extreme.media.nc.transfer.FileTranferNc.main(FileTranferNc.java:225)] SUBIENDO  ARCHIVOS:
+
+2018-11-21 22:12:15 [INFO ] [com.extreme.media.nc.transfer.FileTranferNc.main(FileTranferNc.java:105)] *******INICIANDO TRANSFERENCIA DE ARCHIVOS******
+
+2018-11-21 22:12:16 [INFO ] [com.extreme.media.nc.transfer.FileTranferNc.main(FileTranferNc.java:220)] SUBIENDO  ARCHIVOS:
+
+2018-12-09 21:07:09 [INFO ] [com.extreme.media.transfer.FileTranfer.main(FileTranfer.java:105)] *******INICIANDO TRANSFERENCIA DE ARCHIVOS******
